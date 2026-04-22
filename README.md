@@ -1,76 +1,79 @@
-# Christiam Alberth Mendoza Ruiz
+<div align="center">
 
-**Senior QA Automation Engineer** | Robot Framework · Python · CI/CD · API & SQL Testing
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Christiam+Alberth+Mendoza+Ruiz;Senior+QA+Automation+Engineer;Robot+Framework+%C2%B7+Python+%C2%B7+CI%2FCD" alt="Typing SVG" />
 
-Ingeniero de Sistemas con Maestría y 8 años de experiencia en calidad, automatización y desarrollo de software. Especialista en el diseño de frameworks de automatización con Robot Framework, Selenium y Python; pruebas funcionales, de regresión, end-to-end y testing de APIs REST; y pruebas de performance con JMeter y K6. Perfil técnico con base en desarrollo backend (.NET, Java, SQL) y RPA (Blue Prism, Power Automate).
+**Senior QA Automation Engineer** · 8 años de experiencia
+<br/>
+Ingeniero de Sistemas · Maestría en Ingeniería de Sistemas · MBA Strategic Leadership
 
----
+<br/>
 
-## Experiencia destacada
+<a href="https://linkedin.com/in/alberthruiz"><img src="https://img.shields.io/badge/LinkedIn-alberthruiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://alberthruiz.github.io"><img src="https://img.shields.io/badge/Portfolio-alberthruiz.github.io-2ea44f?style=for-the-badge" /></a>
+<a href="mailto:christiam.alberth.ruiz@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- **Tranzact** — Senior IT Quality Engineer I *(Oct 2022 – Feb 2026)*
-  Incrementé la cobertura de pruebas automatizadas del 15% al 85% en 6 meses. Reduje el ciclo de regresión de 5 a 3 días integrando suites en CI/CD.
-- **Ernst & Young** — QA & RPA Consultant *(Nov 2021 – Feb 2025)*
-  Automatización de pruebas para plataformas bancarias y canales digitales. Tasa de éxito del 85% en automatización de procesos.
-- **Wipro Limited** — Senior Automation / RPA Engineer *(Jun 2021 – Nov 2021)*
-- **Indra Minsait** — Senior RPA Lean Analyst *(Jun 2020 – Jun 2021)*
-  Eliminé 2,000 horas/mes de trabajo manual mediante soluciones RPA.
-- **NTT Data** — Senior Specialist *(May 2018 – Jun 2020)*
+</div>
 
 ---
 
-## Stack técnico
+### Sobre mí
 
-**Test Automation**
-Robot Framework · Selenium WebDriver · Playwright · Cucumber/Gherkin (BDD) · Serenity BDD · Appium
+Especialista en el diseño de frameworks de automatización con **Robot Framework**, **Selenium** y **Python**. Experiencia comprobada en pruebas funcionales, de regresión, end-to-end, APIs REST y performance testing. Perfil técnico con base en desarrollo backend (.NET, Java, SQL) y RPA (Blue Prism, Power Automate), integración en pipelines CI/CD y validaciones complejas de integridad de datos mediante SQL.
 
-**API & Performance**
-Postman · RestAssured · Python Requests · JMeter · K6
-
-**Lenguajes**
-Python · Java · C# · SQL · Kotlin · Dart · TypeScript
-
-**Backend & Frameworks**
-Spring Boot · .NET · ASP.NET · JPA
-
-**Mobile**
-Flutter · Kotlin (Android) · Swift (iOS)
-
-**CI/CD & Cloud**
-Git · GitLab · TeamCity · Docker · Google Cloud Platform · Terraform
-
-**Bases de datos**
-SQL Server · Oracle · MariaDB · SQLite
-
-**RPA**
-Blue Prism · Power Automate
-
-**Gestión de pruebas**
-Jira · TestRail · Zephyr
+Actualmente me desempeño como Senior IT Quality Engineer y también enseño Pruebas de Software a la próxima generación de ingenieros.
 
 ---
 
-## Proyectos destacados
+### Experiencia
 
-- **[reto-tecnico-serenity](https://github.com/AlberthRuiz/reto-tecnico-serenity)** — Reto técnico de automatización con Serenity BDD (Java).
-- **[AutmationChallenge](https://github.com/AlberthRuiz/AutmationChallenge)** — Retos de automatización resueltos en Python.
-- **[GitMetro](https://github.com/AlberthRuiz/GitMetro)** — Utilidad en C# para análisis de repositorios Git.
-- **[miscs](https://github.com/AlberthRuiz/miscs)** — Utilidad en C# para cerrar pop-ups en distintos procesos a partir de un archivo de configuración.
-- **[savemoney_app](https://github.com/AlberthRuiz/savemoney_app)** — Aplicación de gestión financiera personal.
-- **[terraform-cloud-demo](https://github.com/AlberthRuiz/terraform-cloud-demo)** — Infraestructura como código con Terraform.
-- **[alberthruiz.github.io](https://alberthruiz.github.io)** — Portafolio personal.
+| Empresa | Rol | Periodo |
+|---|---|---|
+| **Tranzact** | Senior IT Quality Engineer I | Oct 2022 – Feb 2026 |
+| **Ernst & Young** | QA & RPA Consultant | Nov 2021 – Feb 2025 |
+| **Wipro Limited** | Senior Automation / RPA Engineer | Jun 2021 – Nov 2021 |
+| **Indra Minsait** | Senior RPA Lean Analyst | Jun 2020 – Jun 2021 |
+| **NTT Data** | Senior Specialist | May 2018 – Jun 2020 |
+
+**Logros destacados**
+- Incremento de cobertura de pruebas automatizadas del **15% al 85%** en 6 meses.
+- Reducción del ciclo de regresión de **5 a 3 días** integrando suites en CI/CD.
+- Eliminación de **2,000 horas/mes** de trabajo manual con soluciones RPA.
+- **85% de tasa de éxito** en automatización de procesos bancarios.
+- Reducción del **60%** en incidentes en producción.
 
 ---
 
-## Educación
+### Proyectos
 
-- **MBA** in Strategic Leadership – Global Environment Edition *(2024)*
-- **Maestría en Ingeniería de Sistemas** – Universidad Privada del Norte *(2024)*
-- **Ingeniería de Sistemas Computacionales** – Universidad Privada del Norte *(2016)*
+| | Proyecto | Descripción |
+|---|---|---|
+| | **[reto-tecnico-serenity](https://github.com/AlberthRuiz/reto-tecnico-serenity)** | Automatización de pruebas con Serenity BDD y Java. |
+| | **[AutmationChallenge](https://github.com/AlberthRuiz/AutmationChallenge)** | Retos de automatización resueltos en Python. |
+| | **[GitMetro](https://github.com/AlberthRuiz/GitMetro)** | Utilidad en C# para análisis de repositorios Git. |
+| | **[miscs](https://github.com/AlberthRuiz/miscs)** | Utilidad en C# para cerrar pop-ups en procesos mediante archivo de configuración. |
+| | **[terraform-cloud-demo](https://github.com/AlberthRuiz/terraform-cloud-demo)** | Infraestructura como código con Terraform. |
+| | **[savemoney_app](https://github.com/AlberthRuiz/savemoney_app)** | Aplicación de gestión financiera personal. |
 
 ---
 
-## Certificaciones
+### Stack técnico
+
+```
+Test Automation    Robot Framework · Selenium · Playwright · Appium · Serenity BDD · Cucumber
+API & Performance  Postman · RestAssured · Python Requests · JMeter · K6
+Lenguajes          Python · Java · C# · SQL · Kotlin · Dart · TypeScript
+Backend            Spring Boot · .NET · ASP.NET · JPA
+Mobile             Flutter · Kotlin (Android) · Swift (iOS)
+CI/CD & Cloud      Git · GitLab · TeamCity · Docker · GCP · Terraform
+Databases          SQL Server · Oracle · MariaDB · SQLite
+RPA                Blue Prism · Power Automate
+Test Management    Jira · TestRail · Zephyr
+Metodologías       Scrum · Agile · Lean · BDD · SDLC
+```
+
+---
+
+### Certificaciones
 
 - Automation Anywhere Certified Advanced RPA Professional (Automation 360) — 2022
 - Blue Prism Certified Solution Designer — 2020
@@ -80,15 +83,18 @@ Jira · TestRail · Zephyr
 
 ---
 
-## Idiomas
+<div align="center">
 
-Español (nativo) · Inglés B2 Upper Intermediate · Portugués A2
+<img src="https://github-readme-stats.vercel.app/api?username=AlberthRuiz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=AlberthRuiz&theme=github-dark-blue&hide_border=true" height="170" />
 
----
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlberthRuiz&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="170" />
 
-## Contacto
+<br/><br/>
 
-- Correo: christiam.alberth.ruiz@gmail.com
-- LinkedIn: [alberthruiz](https://linkedin.com/in/alberthruiz)
-- Portafolio: [alberthruiz.github.io](https://alberthruiz.github.io)
-- Teléfono: +51 938 197 341
+*"Calidad no es negociable."*
+<br/>
+*Sistemas confiables, pruebas inteligentes, entregas predecibles.*
+
+</div>
