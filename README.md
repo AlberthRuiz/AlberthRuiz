@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Christiam+Alberth+Mendoza;Senior+QA+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Christiam+Alberth+Mendoza;Senior+QA+Automation+Engineer;Robot+Framework+%C2%B7+Python+%C2%B7+CI%2FCD" alt="Typing SVG" />
 
-**Senior QA Automation Engineer · [Tranzact](https://www.tranzact.com/) · Docente en [Cibertec](https://www.cibertec.edu.pe/)**
+**Test automation, clean pipelines, fewer manual clicks.**
 
-8 años automatizando lo que otros prefieren no tocar.
-<br/>
-🇵🇪 Lima · Robot Framework · Python · CI/CD · SQL
+Building frameworks so regressions take hours, not days.
 
 <br/>
 
@@ -20,36 +18,47 @@
 
 ### What I'm Building
 
-Frameworks de automatización que reducen el ciclo de regresión de días a horas, y herramientas para el QA que ya está cansado de repetir clicks.
-
 | | Project | Description |
 |---|---|---|
-| 🧪 | **[reto-tecnico-serenity](https://github.com/AlberthRuiz/reto-tecnico-serenity)** | Automatización BDD con Serenity + Java. Screenplay pattern end-to-end. |
-| 🤖 | **[AutmationChallenge](https://github.com/AlberthRuiz/AutmationChallenge)** | Retos de automatización en Python. Selenium, APIs, data-driven. |
-| 📊 | **[GitMetro](https://github.com/AlberthRuiz/GitMetro)** | CLI en C# para métricas de repositorios Git. |
-| 🪟 | **[miscs](https://github.com/AlberthRuiz/miscs)** | Utilidad en C# que cierra pop-ups de procesos a partir de un `config.xml`. |
-| ☁️ | **[terraform-cloud-demo](https://github.com/AlberthRuiz/terraform-cloud-demo)** | Infra como código con Terraform en la nube. |
-| 💸 | **[savemoney_app](https://github.com/AlberthRuiz/savemoney_app)** | App de gestión financiera personal. |
+| 🧪 | **[reto-tecnico-serenity](https://github.com/AlberthRuiz/reto-tecnico-serenity)** | BDD automation with Serenity + Java. Screenplay pattern, end-to-end. |
+| 🤖 | **[AutmationChallenge](https://github.com/AlberthRuiz/AutmationChallenge)** | Automation challenges solved in Python. Selenium, APIs, data-driven. |
+| 📊 | **[GitMetro](https://github.com/AlberthRuiz/GitMetro)** | C# CLI for Git repository metrics and analysis. |
+| 🪟 | **[miscs](https://github.com/AlberthRuiz/miscs)** | C# utility that closes pop-up windows in processes via a `config.xml`. |
+| ☁️ | **[terraform-cloud-demo](https://github.com/AlberthRuiz/terraform-cloud-demo)** | Infrastructure as code with Terraform. |
+| 💸 | **[savemoney_app](https://github.com/AlberthRuiz/savemoney_app)** | Personal finance management app. |
 
-### The Career So Far
+---
 
-| | Company | Role | Period |
-|---|---|---|---|
-| 🟢 | **Tranzact** | Senior IT Quality Engineer I | Oct 2022 – Feb 2026 |
-| 🟡 | **Ernst & Young** | QA & RPA Consultant | Nov 2021 – Feb 2025 |
-| 🔵 | **Wipro Limited** | Senior Automation / RPA Engineer | Jun 2021 – Nov 2021 |
-| 🟠 | **Indra Minsait** | Senior RPA Lean Analyst | Jun 2020 – Jun 2021 |
-| 🔴 | **NTT Data** | Senior Specialist | May 2018 – Jun 2020 |
+### As Instructor · [Cibertec](https://github.com/cibertec-courses)
 
-**Numbers that matter**
-- Cobertura de pruebas automatizadas: **15% → 85%** en 6 meses.
-- Ciclo de regresión: **5 días → 3 días** integrando suites en CI/CD.
-- **2,000 horas/mes** eliminadas con soluciones RPA.
-- **60%** menos incidentes en producción.
+Course material and base projects I maintain for students learning software testing, BDD, mobile automation and backend fundamentals.
+
+| | Repo | Stack |
+|---|---|---|
+| 🧪 | **[playwright-screenplay-saucedemo-v2](https://github.com/cibertec-courses/playwright-screenplay-saucedemo-v2)** | Playwright · Serenity · Screenplay |
+| 🛒 | **[opencart-screenplay-ui](https://github.com/cibertec-courses/opencart-screenplay-ui)** | Selenium · Serenity · Cucumber |
+| 📱 | **[gym-tracker-appium](https://github.com/cibertec-courses/gym-tracker-appium)** | Appium · Java · Mobile Testing |
+| 🔬 | **[bdd-serenity-v2](https://github.com/cibertec-courses/bdd-serenity-v2)** | Serenity BDD · Cucumber |
+| 🚦 | **[infracciones-transito-api](https://github.com/cibertec-courses/infracciones-transito-api)** | Spring Boot · JPA · JUnit · Mockito |
+| ⚙️ | **[tdd-sping-junit-mockito-v2](https://github.com/cibertec-courses/tdd-sping-junit-mockito-v2)** | TDD · Spring · JUnit · Mockito |
+| 🔑 | **[login-demo-screenplay-app](https://github.com/cibertec-courses/login-demo-screenplay-app)** | Screenplay pattern reference |
+| 🛍️ | **[shopping-playscreen-test](https://github.com/cibertec-courses/shopping-playscreen-test)** | End-to-end testing sample |
+
+Full org: [github.com/cibertec-courses](https://github.com/cibertec-courses)
+
+---
+
+### As Independent Consultant · Abbflow
+
+Automation and QA consulting for teams that want to ship faster without breaking things. Framework design, CI/CD integration, test strategy, team mentorship.
+
+> Contact for consulting: **christiam.alberth.ruiz@gmail.com**
+
+---
 
 ### Tech DNA
 
-```
+\`\`\`
 Automation    Robot Framework · Selenium · Playwright · Appium · Serenity · Cucumber
 APIs & Perf   Postman · RestAssured · Python Requests · JMeter · K6
 Languages     Python · Java · C# · SQL · Kotlin · Dart · TypeScript
@@ -57,11 +66,7 @@ Backend       Spring Boot · .NET · ASP.NET · JPA
 CI/CD         Git · GitLab · TeamCity · Docker · GCP · Terraform
 RPA           Blue Prism · Power Automate
 Mindset       Clean Code · BDD · SDLC · Scrum · Lean
-```
-
-### Certifications
-
-`Automation 360` · `Blue Prism Solution Designer` · `Blue Prism Developer` · `Scrum Foundation` · `EF SET B2`
+\`\`\`
 
 ---
 
@@ -79,9 +84,5 @@ Mindset       Clean Code · BDD · SDLC · Scrum · Lean
 *Quality is never an accident.*
 <br/>
 *It's always the result of intelligent effort.*
-
-<br/>
-
-<a href="https://linkedin.com/in/alberthruiz"><img src="https://img.shields.io/badge/Let's_Work_Together-0A66C2?style=for-the-badge" /></a>
 
 </div>
